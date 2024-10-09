@@ -19,6 +19,12 @@ public class Ejercicio3 {
                         System.out.println("mostrando valor de fila "+ i+" Columna "+j+" = "+ vector[i][j]);
                     }
                 }
+//                for(int i=0;i<num;i++){
+//                    for(int j=0;j<num;j++){
+//                        System.out.println("");
+//                    }
+//                }
+
                 int []vectorSuma = new int[num];
                 for(int j=0;j<num;j++){
                     int suma = 0;
